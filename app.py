@@ -9,7 +9,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-MODEL_DIR = "model_output/final_model"
+MODEL_DIR = "akankshasattoor/review-sentiment-model"
 
 app = FastAPI(title="FMCG Review Sentiment API")
 

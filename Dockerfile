@@ -8,7 +8,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir --default-timeout=300 --retries 5 -r requirements.txt
 
 COPY app.py .
-COPY model_output/final_model ./model_output/final_model
+
 
 EXPOSE 8000
 

@@ -1,0 +1,8 @@
+model_output/checkpoint-*
+data/
+__pycache__/
+*.pyc
+.git
+venv/
+.venv/
+*.ipynb
