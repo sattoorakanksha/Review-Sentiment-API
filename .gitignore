@@ -1,0 +1,7 @@
+model_output/
+data/raw/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
