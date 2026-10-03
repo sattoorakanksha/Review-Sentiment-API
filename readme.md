@@ -68,7 +68,7 @@ Built with FastAPI. Two endpoints:
 - `GET /` — service info and an explicit limitation disclaimer
 - `POST /predict` — takes `{"text": "..."}`, returns `{"label": "positive"|"negative", "confidence": 0.0-1.0}`
 
-**Live demo:** https://review-sentiment-api-z97e.onrender.com
+**Live demo:**(https://review-sentiment-api-f8dq.onrender.com/docs)
 
 ## Known Limitation
 
