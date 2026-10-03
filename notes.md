@@ -164,7 +164,7 @@ a genuinely pretrained model instead, fine-tuned rather than trained from scratc
   required a paid plan for Docker SDK
 - No memory issues encountered despite the risk flagged beforehand —
   512MB was sufficient for DistilBERT + FastAPI + transformers in practice
-- Live URL: https://review-sentiment-api-z97e.onrender.com
+- Live URL: (https://review-sentiment-api-f8dq.onrender.com/docs)
 - Note: free tier spins down after ~15 min inactivity; first request after
   idle time will be slow (cold start, 30-60s) — expected, not a bug
 - Full project now complete: fine-tuned pretrained model (validated via
